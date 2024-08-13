@@ -18,7 +18,7 @@ Este é um aplicativo simples para mesclar arquivos PDF usando PyQt6 e PyPDF2.
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/pdf-merger-app.git
+    git clone https://github.com/gpeixotos/pdf-merger-app.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
